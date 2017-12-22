@@ -1,6 +1,6 @@
 {
   "name": "Grunt.js",
-  "description": "Practice with GulpJS.",
+  "description": "Practice with GruntJS.",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "^1.0.1",
